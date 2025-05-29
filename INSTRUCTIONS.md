@@ -17,4 +17,5 @@ REF: https://www.youtube.com/watch?v=f8Z9JyB2EIE
 ```
 npx expo start
 ```
+## 6. Scan QR code from console, view it via Expo Go app from mobile phone.
 
